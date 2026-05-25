@@ -4,6 +4,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Network+Engineer;Linux+Administrator;Future+AI+Engineer" />
+</p>
+
 ---
 
 # Hello 👋, I'm Pandu
