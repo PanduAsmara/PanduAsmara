@@ -1,16 +1,187 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**PanduAsmara/PanduAsmara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6C63FF,100:0A0F1C&text=PANDU%20OFFICIAL&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Network%20Engineer%20•%20Linux%20Administrator%20•%20AI%20Enthusiast&descAlignY=55&descSize=18" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# Hello 👋, I'm Pandu
+
+<img align="right" alt="coding" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
+### 💫 About Me
+
+- 🎓 Final Year TKJ Student
+- 🌐 Focused on Networking & Linux
+- 🖥️ Learning AI & Infrastructure
+- 🇯🇵 Vice Leader of Japanese Club
+- 🚀 Future AI Engineer at IPB
+- ⚡ Love Cisco, Debian, Mikrotik & Automation
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/USERNAME" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+<a href="https://instagram.com/USERNAME" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+<a href="https://discord.com" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=discord" height="45" />
+</a>
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,bash,html,css,js,nodejs,python,java,mysql,git,github,vscode" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=docker,cloudflare,nginx,arduino" />
+
+</div>
+
+---
+
+# 🌐 Networking Skills
+
+```yaml
+Cisco:
+  - OSPF
+  - RIP
+  - EIGRP
+  - VLAN
+  - STP
+  - HSRP
+  - GRE Tunnel
+
+Mikrotik:
+  - Routing
+  - DHCP
+  - Firewall
+  - NAT
+  - VPN
+
+Linux:
+  - Debian Server
+  - SSH
+  - Apache
+  - Nginx
+  - Monitoring
+```
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4" />
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
+
+---
+
+# 💻 Featured Projects
+
+## 🔹 Enterprise Network Design
+Medium scale office network using dynamic routing OSPF.
+
+```yaml
+Tech:
+  - Cisco Packet Tracer
+  - OSPF
+  - VLAN
+  - DHCP
+```
+
+---
+
+## 🔹 Linux Automated Lab
+Automation server based on Debian Linux.
+
+```yaml
+Tech:
+  - Debian
+  - Bash Script
+  - SSH
+  - Monitoring
+```
+
+---
+
+## 🔹 AI Future Project
+Experimental AI & automation project.
+
+```yaml
+Tech:
+  - Python
+  - API
+  - Linux
+```
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# ☕ Visitor Counter
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=6C63FF&style=for-the-badge" />
+
+</div>
+
+---
+
+# ⚡ Quote
+
+<div align="center">
+
+> "Technology changes civilization."
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Thanks For Visiting My Profile
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:0A0F1C" />
+
+</div>
