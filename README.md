@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6C63FF,100:0A0F1C&text=PANDU%20OFFICIAL&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Network%20Engineer%20•%20Linux%20Administrator%20•%20AI%20Enthusiast&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6C63FF,100:0A0F1C&text=PANDU%20ASMARA&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Network%20Engineer%20•%20Linux%20Administrator%20•%20AI%20Enthusiast&descAlignY=55&descSize=18" />
 
 </div>
 
