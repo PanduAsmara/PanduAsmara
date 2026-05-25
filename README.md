@@ -24,10 +24,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/USERNAME" target="blank">
+<a href="https://github.com/PanduAsmara" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
-<a href="https://instagram.com/USERNAME" target="blank">
+<a href="https://instagram.com/pandu_asmaraa" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=instagram" height="45" />
 </a>
 <a href="https://discord.com" target="blank">
@@ -84,9 +84,9 @@ Linux:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PanduAsmara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PanduAsmara&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
@@ -96,7 +96,7 @@ Linux:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=PanduAsmara&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4" />
 
 </div>
 
@@ -104,7 +104,7 @@ Linux:
 
 # 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PanduAsmara&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
 
 ---
 
@@ -162,7 +162,7 @@ Tech:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=6C63FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=PanduAsmara&label=Profile+Views&color=6C63FF&style=for-the-badge" />
 
 </div>
 
