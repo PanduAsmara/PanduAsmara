@@ -20,7 +20,7 @@
 - 🌐 Focused on Networking & Linux
 - 🖥️ Learning AI & Infrastructure
 - 🇯🇵 Vice Leader of Japanese Club
-- 🚀 Future AI Engineer at IPB
+- 🚀 Future AI Engineer
 - ⚡ Love Cisco, Debian, Mikrotik & Automation
 
 ---
